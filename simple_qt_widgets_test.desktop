@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Simple Qt app test
+Exec=simple_qt_widgets_test
+Terminal=false
+Type=Application
+Categories=Game;

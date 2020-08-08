@@ -32,3 +32,4 @@ endif()
 target_link_libraries(simple_qt_widgets_test PRIVATE Qt5::Widgets)
 
 install(TARGETS simple_qt_widgets_test DESTINATION bin)
+install(FILES simple_qt_widgets_test.desktop DESTINATION share/applications)
